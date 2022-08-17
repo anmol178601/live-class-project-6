@@ -1,0 +1,142 @@
+#navbarMonstera{
+    display: flex;
+}
+#navFirst{
+    margin-top: 70px;
+    margin-left: 50px;
+    font-family: "Allerta";
+    margin-right: 100px;
+}
+#navMid{
+    display: flex;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 100px;
+    font-family: "Allerta";
+}
+.navMid-in{
+    margin-top: 35px;
+    margin-left: 90px;
+    font-family: "Allerta";
+}
+#navEnd{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 10px;
+    font-family: "Allerta";
+    font-style: 100px;
+}
+.navEnd-in{
+    margin-top: 35px;
+    margin-left: 60px;
+}
+
+#midWhole{
+    display: flex;
+    margin-top: 10px;
+    font-family: "Allerta";
+}
+
+#midWholePart1{
+    /* margin-right: 100px; */
+}
+
+#midWholePart11{
+    margin-top: 150px;
+}
+ul {
+    list-style: none;
+ }     
+      
+ ul li:before { 
+    content: "•";
+    font-size: 200%; /* or whatever */
+    margin-right: 20px;
+ }
+#monstera{
+    font-size: 120px;
+    font-family: "Allerta";
+    font-weight: bolder;
+}
+
+#midWholePart12{
+
+}
+
+#midWholePart121{
+
+}
+.discover{
+    margin-top: 50px;
+    height: 70px;
+    width: 220px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: #466d4f;
+    color: white;
+    margin-left: 50px;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: "Allerta";
+}
+
+#midWholePart122{
+
+}
+
+#midWholePart13{
+    display: flex;
+}
+
+#midWholePart13Parts{
+    
+}
+
+.text-light{
+    font-size: 25px;
+    font-family: "Abel";
+    font-weight: bolder;
+    margin-top: -30px;
+}
+
+#feeding{
+    margin-right: 15px;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+.text{
+    margin-top: -25px;
+    font-size: 15px;
+    font-family: "Abel";
+    width: 200px;
+}
+
+.midWholePart13Parts{
+    display: flex;
+}
+
+#light{
+    margin-top: 35px;
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+#care{
+    margin-top: 35px;
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+#imgMain{
+    margin-left: 200px;
+}
+
+h1 {
+    display: inline;
+}
+h4{
+    font-size: 30px;
+    font-weight: 600;
+}
